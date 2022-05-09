@@ -49,11 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'house-user',
-      link: 'https://home.chjina.com',
-    },
-    {
-      name: 'blog',
+      name: '博客',
       link: 'https://chjina.com',
     },
   ],
