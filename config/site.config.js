@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon 网站名称.
-  title: "chjina Drive",
+  title: "无为网盘",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder 分享目录.
   baseDirectory: '/Public',
